@@ -8,3 +8,9 @@ The original project provided an open platform for the simulation of Java Card a
 
    - Extend the current simulator to provide efficient asynchronous execution.
    - Extend the current simulator to execute Java Card code byte-by-byte on Chrome browser.
+   
+Run app:
+1. Clone the repository
+2. Access the folder in terminal and run npm i (this will install all the node packagies in package.json)
+3. Deploy the app on a local server, e.g. the Webstorm's built-in server
+4. Open a browser ->  http//localhost:<port>/new/views/layout.html
