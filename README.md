@@ -12,5 +12,6 @@ The original project provided an open platform for the simulation of Java Card a
 Run app:
 1. Clone the repository
 2. Access the folder in terminal and run npm i (this will install all the node packagies in package.json)
-3. Deploy the app on a local static server (e.g. npm static-server. Check this page for details https://www.npmjs.com/package/static-   server) 
+3. Deploy the app on a local static server 
+   (e.g. npm static-server. Check this page for details: https://www.npmjs.com/package/staticserver) 
 4. Open a browser ->  http//localhost:<port>/views/layout.html
